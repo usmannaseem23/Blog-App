@@ -1,0 +1,73 @@
+[
+    {
+      "id": "1",
+      "tittle": "How to Contribute to Open Source Projects",
+      "author": "Usman",
+      "content": "Open source projects provide an excellent opportunity to improve skills and be part of the technology community. This step-by-step guide is designed for beginners looking to start their contribution journey.",
+      "src": "/blog/bl-1.jpg"
+    },
+    {
+      "id": "2",
+      "tittle": "The Future of Augmented Reality and Virtual Reality",
+      "author": "Usman",
+      "content": "The future of AR and VR technology is highly promising. With applications in education, healthcare, and entertainment, this article explores the evolution of these technologies and their potential impacts.",
+      "src": "/blog/bl-2.jpg"
+    },
+    {
+      "id": "3",
+      "tittle": "Low-Code Platforms: The Future of Coding?",
+      "author": "Usman",
+      "content": "Low-code and no-code platforms are significantly impacting software development. These tools simplify software creation for both developers and non-developers. This article discusses their pros and cons in detail.",
+      "src": "/blog/bl-3.jpg"
+    },
+    {
+      "id": "4",
+      "tittle": "The Role of 5G Technology in Smart Cities",
+      "author": "Usman",
+      "content": "5G technology is proving to be a game-changer for smart city infrastructure. High-speed connectivity and IoT device integration make smart cities more efficient and sustainable.",
+      "src": "/blog/bl-4.jpg"
+    },
+    {
+      "id": "5",
+      "tittle": "Artificial Intelligence in Daily Life",
+      "author": "Usman",
+      "content": "AI is increasingly becoming part of our everyday lives, from virtual assistants to personalized recommendations. This article explores how AI is transforming industries and enhancing convenience.",
+      "src": "/blog/bl-5.jpg"
+    },
+    {
+      "id": "6",
+      "tittle": "Blockchain: Revolutionizing Data Security",
+      "author": "Usman",
+      "content": "Blockchain technology ensures data transparency and security across various industries. This article highlights its applications in finance, healthcare, and beyond.",
+      "src": "/blog/bl-6.jpg"
+    },
+    {
+      "id": "7",
+      "tittle": "The Evolution of Smart Wearables",
+      "author": "Usman",
+      "content": "Smart wearables like fitness trackers and smartwatches are evolving rapidly, offering features like health monitoring and real-time notifications. This article delves into their development and potential future innovations.",
+      "src": "/blog/bl-7.jpg"
+    },
+    {
+      "id": "8",
+      "tittle": "The Impact of Cloud Computing on Businesses",
+      "author": "Usman",
+      "content": "Cloud computing is transforming how businesses store and access data. This article examines the benefits of cloud services, such as scalability, cost efficiency, and data accessibility.",
+      "src": "/blog/bl-8.jpg"
+    },
+    {
+      "id": "9",
+      "tittle": "Cybersecurity Challenges in a Digital World",
+      "author": "Usman",
+      "content": "As technology advances, cybersecurity threats are becoming more sophisticated. This article discusses common challenges and strategies to protect against cyberattacks.",
+      "src": "/blog/bl-9.jpg"
+    },
+    {
+      "id": "10",
+      "tittle": "Green Technology: Innovations for a Sustainable Future",
+      "author": "Usman",
+      "content": "Green technology focuses on environmentally friendly innovations like renewable energy and sustainable materials. This article explores how green tech is paving the way for a cleaner future.",
+      "src": "/blog/bl-10.jpg"
+    }
+  ]
+  
